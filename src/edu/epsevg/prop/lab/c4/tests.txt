@@ -1,0 +1,135 @@
+No Poda:
+
+MyJugador VS Profe:
+Heuristics calculations: 16777216
+Heuristics calculations: 16777214
+Heuristics calculations: 16775786
+Heuristics calculations: 16774358
+Heuristics calculations: 16774301
+Heuristics calculations: 16772928
+Heuristics calculations: 16772926
+MyJugador WIN
+
+Profe VS MyJugador:
+Heuristics calculations: 16777215
+Heuristics calculations: 16777158
+Heuristics calculations: 16775730
+Heuristics calculations: 16588452
+Heuristics calculations: 16588395
+Heuristics calculations: 16588393
+Heuristics calculations: 16588336
+Heuristics calculations: 16586908
+Heuristics calculations: 16566328
+Heuristics calculations: 16545748
+Heuristics calculations: 16358540
+Heuristics calculations: 16022750
+Heuristics calculations: 11841062
+Heuristics calculations: 10270934
+Heuristics calculations: 3388622
+Heuristics calculations: 3387594
+Heuristics calculations: 1395154
+Heuristics calculations: 965773
+Heuristics calculations: 364509
+Heuristics calculations: 364476
+Heuristics calculations: 360444
+Heuristics calculations: 286202
+Heuristics calculations: 140126
+Heuristics calculations: 136738
+Heuristics calculations: 93562
+Heuristics calculations: 22498
+Heuristics calculations: 938
+Heuristics calculations: 84
+Heuristics calculations: 7
+MyJugador WIN
+
+/////////////////////////////////////////////////////////////////
+
+Poda:
+
+MyJugador VS Profe:
+Heuristics calculations: 510813
+Heuristics calculations: 350899
+Heuristics calculations: 270255
+Heuristics calculations: 236431
+Heuristics calculations: 391798
+Heuristics calculations: 1113776
+Heuristics calculations: 1097312
+MyJugador WIN
+
+Profe VS MyJugador:
+Heuristics calculations: 252747
+Heuristics calculations: 77172
+Heuristics calculations: 168416
+Heuristics calculations: 285293
+Heuristics calculations: 398343
+Heuristics calculations: 372770
+Heuristics calculations: 222411
+Heuristics calculations: 341204
+Heuristics calculations: 264342
+Heuristics calculations: 204231
+Heuristics calculations: 252860
+Heuristics calculations: 331449
+Heuristics calculations: 277042
+Heuristics calculations: 272085
+Heuristics calculations: 104553
+Heuristics calculations: 167552
+Heuristics calculations: 80036
+Heuristics calculations: 52470
+Heuristics calculations: 31938
+Heuristics calculations: 37252
+Heuristics calculations: 35035
+Heuristics calculations: 30353
+Heuristics calculations: 13468
+Heuristics calculations: 9740
+Heuristics calculations: 7559
+Heuristics calculations: 3276
+Heuristics calculations: 287
+Heuristics calculations: 58
+Heuristics calculations: 7
+MyJugador WIN
+
+/////////////////////////////////////////////////////////////////
+
+Poda + Sorting:
+
+MyJugador VS Profe:
+Heuristics calculations: 58755
+Heuristics calculations: 105906
+Heuristics calculations: 80531
+Heuristics calculations: 85983
+Heuristics calculations: 79532
+Heuristics calculations: 86056
+Heuristics calculations: 92681
+MyJugador WIN
+
+Profe VS MyJugador:
+Heuristics calculations: 67506
+Heuristics calculations: 64620
+Heuristics calculations: 62570
+Heuristics calculations: 97307
+Heuristics calculations: 91859
+Heuristics calculations: 76779
+Heuristics calculations: 41321
+Heuristics calculations: 50209
+Heuristics calculations: 81475
+Heuristics calculations: 85643
+Heuristics calculations: 97391
+Heuristics calculations: 115774
+Heuristics calculations: 87257
+Heuristics calculations: 92421
+Heuristics calculations: 56965
+Heuristics calculations: 36414
+Heuristics calculations: 16244
+Heuristics calculations: 10569
+Heuristics calculations: 5893
+Heuristics calculations: 6845
+Heuristics calculations: 7924
+Heuristics calculations: 6903
+Heuristics calculations: 3912
+Heuristics calculations: 5006
+Heuristics calculations: 3697
+Heuristics calculations: 1523
+Heuristics calculations: 160
+Heuristics calculations: 27
+Heuristics calculations: 4
+MyJugador WIN
